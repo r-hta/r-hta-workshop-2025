@@ -12,3 +12,9 @@ For more information please see the [main website](https://r-hta.org/project/wor
 ## Materials
 
 Links to external materials can be found in the table below, thanks to the DPA team for updating this throughout the workshop as new slides were made available.
+
+### Friday 6th June 2025
+
+| Author                  | Title                                                                         | Institution                                          | Links           |
+| ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
+| Robert Smith  | Automating Health Economic Evaluation with R | Dark Peak Analytics       | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/RHTA24-assertHE.pdf](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/RobertSmith-AutomatedReporting.pdf); [bibby package](https://github.com/dark-peak-analytics/bibby)              |

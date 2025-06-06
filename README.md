@@ -17,7 +17,7 @@ Links to external materials can be found in the table below, thanks to the DPA t
 
 | Author                  | Title                                                                         | Institution                                          | Links           |
 | ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
-| Eline Krijkamp  | From spreadsheet to script: Streamlining data collection and probabilistic sensitivity analysis with Excel and R | Erasmus University Rotterdam       | [Slides](https://github.com/r-hta/r-hta-workshop-2025)              |
+| Eline Krijkamp  | From spreadsheet to script: Streamlining data collection and probabilistic sensitivity analysis with Excel and R | Erasmus University Rotterdam       | Slides TBC            |
 | Ayman Sadek	  | Discrete event simulation and treatment sequencing cost-effectiveness model in second line highly active relapse remitting multiple sclerosis for a NICE Multiple Technology Appraisal | University of Bristol Technology Assessment Group (TAG)       | [Slides](https://github.com/r-hta/r-hta-workshop-2025)
 | Javier Sanchez Alvarez  | Unlocking Discrete Event Simulation Modelling in R using WARDEN | Abbvie       | [Slides](https://github.com/r-hta/r-hta-workshop-2025)              |
 | Robert Smith  | Automating Economic Evaluation Reports Using R, RMarkdown, and LLMs | Dark Peak Analytics       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/RobertSmith-AutomatedReporting.pdf); [bibby package](https://github.com/dark-peak-analytics/bibby)              |

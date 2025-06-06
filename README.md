@@ -17,4 +17,4 @@ Links to external materials can be found in the table below, thanks to the DPA t
 
 | Author                  | Title                                                                         | Institution                                          | Links           |
 | ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
-| Robert Smith  | Automating Health Economic Evaluation with R | Dark Peak Analytics       | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/RHTA24-assertHE.pdf](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/RobertSmith-AutomatedReporting.pdf); [bibby package](https://github.com/dark-peak-analytics/bibby)              |
+| Robert Smith  | Automating Health Economic Evaluation with R | Dark Peak Analytics       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/RobertSmith-AutomatedReporting.pdf); [bibby package](https://github.com/dark-peak-analytics/bibby)              |

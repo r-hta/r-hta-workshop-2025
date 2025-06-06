@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/r-hta/r-hta-workshop-2024?color=red&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/r-hta/r-hta-workshop-2025?color=red&style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/r-hta/r-hta-workshop-2024?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/r-hta/r-hta-workshop-2024?style=plastic)
 [![GitHub forks](https://img.shields.io/github/forks/r-hta/r-hta-workshop-2024?style=social&label=Fork&maxAge=2592000)](https://github.com/r-hta/r-hta-workshop-2024/network/)

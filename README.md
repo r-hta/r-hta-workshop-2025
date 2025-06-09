@@ -33,11 +33,11 @@ Links to external materials can be found in the table below, thanks to the DPA t
 | Author                  | Title                                                                         | Institution                                          | Links           |
 | ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
 | Harriet Fewster  | Investigating Input Correlation in Probabilistic Sensitivity Analysis | York Health Economics Consortium Ltd       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/Harriet%20Fewster.pdf)            |
-| Olivia Adair  | A Shiny New Way to Evaluate Bowel Cancer Screening in Northern Ireland | Queen’s Univeristy Belfast	       | Slides TBC            |
+| Olivia Adair  | A Shiny New Way to Evaluate Bowel Cancer Screening in Northern Ireland | Queen’s Univeristy Belfast	       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/Olivia%20Adair.pdf)            |
 | Luke Hardcastle	  | The diffusion piecewise exponential model for survival extrapolation | Dept. Statistical Science, University College London	       | Slides TBC            |
 | Zachary Waller	  |Blistering speed - is Rcpp really so scary? | Queen’s Univeristy Belfast		       | Slides TBC            |
 | Ahmed Abdelsabour	  |Visualising Non-Inferiority: An R Shiny Tool for Indirect Comparisons | PenTAG, University of Exeter		       | Slides TBC            |
 | Hesam Ghiasvand	  |Revealing Subgroup Cost-Effectiveness Using Group-Based Trajectory Modelling: A Simulation on the findings of a study in Maternal Health During Birth | Coventry University		       | Slides TBC            |
-| David McAllister	  |RESIDE - RESIDE: Rapid Easy Synthesis to Inform Data Extraction | University of Glasgow		       | Slides TBC            |
+| David McAllister	  |RESIDE - RESIDE: Rapid Easy Synthesis to Inform Data Extraction | University of Glasgow		       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/David%20McAllister.pdf); [RESIDE package](https://hehta.github.io/RESIDE/)            |
 | Jesus Perez	  |TableTidier: Extracting and Harmonising Tabular Data for Secondary Research | University of Glasgow / Datasky		       | Slides TBC            |
-| Dominic Muston, Gregory Chen, Anders Gorst-Rasmussen, Robert Hettle	  |Enhancing Cooperation Between Clinical Evidence Generation and Economic Modeling in HTA: How R Can Help | MSD, Novo Nordisk, AstraZeneca		       | Slides TBC            |
+| Dominic Muston, Gregory Chen, Anders Gorst-Rasmussen, Robert Hettle	  |Enhancing Cooperation Between Clinical Evidence Generation and Economic Modeling in HTA: How R Can Help | MSD, Novo Nordisk, AstraZeneca		       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/Dominic%20Muston.pdf)            |

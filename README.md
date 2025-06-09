@@ -41,3 +41,16 @@ Links to external materials can be found in the table below, thanks to the DPA t
 | David McAllister	  |RESIDE - RESIDE: Rapid Easy Synthesis to Inform Data Extraction | University of Glasgow		       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/David%20McAllister.pdf); [RESIDE package](https://hehta.github.io/RESIDE/)            |
 | Jesus Perez	  |TableTidier: Extracting and Harmonising Tabular Data for Secondary Research | University of Glasgow / Datasky		       | Slides TBC            |
 | Dominic Muston, Gregory Chen, Anders Gorst-Rasmussen, Robert Hettle	  |Enhancing Cooperation Between Clinical Evidence Generation and Economic Modeling in HTA: How R Can Help | MSD, Novo Nordisk, AstraZeneca		       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/Dominic%20Muston.pdf)            |
+
+### Tuesday 10th June 2025
+
+| Author                  | Title                                                                         | Institution                                          | Links           |
+| ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
+| Frederick W. Thielen  | tatooheene: The R Package Toolbox for Health Economic Evaluations Aligned with the Dutch Guideline | Erasmus School of Health Policy & Management       | Slides TBC            |
+| Aaron Winn & Wael Mohammed	  | Building Efficient Microsimulation Models in R: A How-To Guide | University of Illinois Chicago / Dark Peak Analytics       | Slides TBC            |
+| Hong Xiao, Karam Diaby & Zhen Zhang	  | Enhancing HTA model adaptations with AI: Leveraging large language models and R-Shiny for local cost-effectiveness analyses | Otsuka Pharmaceuticals, Inc       | Slides TBC            |
+| Mate Szilcz  | extRpolateS: A Shiny-Based Interactive Platform for Time-to-Event Data Modeling in Health Technology Assessments | Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden       | Slides TBC            |
+| Rachel O’Leary	  | Robot-assisted surgery for orthopaedic procedures: a rapid economic evaluation using rdecision | Newcastle upon Tyne Hospitals NHS Foundation Trust (NuTH)       | Slides TBC            |
+| Jorge Roa  | Accurate uncertainty quantification in Bayesian calibration accounting for correlated targets | Department of Health Policy, Stanford University School of Medicine	       | Slides TBC            |
+| Hawre Jalal  | A Computationally Efficient and Fully Vectorized Probabilistic Analysis of Time-Dependent Markov Modeling | University of Ottawa       | Slides TBC            |
+| Rose Hart, Sven Klijn, Yevgeniy Samyshkin and Tom Ward  | Defining and Overcoming Barriers to R in Health Economic Assessments: Insights and Pathways Forward | Dark Peak Analytics, Bristol Myers Squibb, GlaxoSmithKline       | Slides TBC            |

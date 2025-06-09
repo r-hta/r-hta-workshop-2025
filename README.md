@@ -32,7 +32,7 @@ Links to external materials can be found in the table below, thanks to the DPA t
 
 | Author                  | Title                                                                         | Institution                                          | Links           |
 | ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
-| Harriet Fewster  | Investigating Input Correlation in Probabilistic Sensitivity Analysis | York Health Economics Consortium Ltd       | Slides TBC            |
+| Harriet Fewster  | Investigating Input Correlation in Probabilistic Sensitivity Analysis | York Health Economics Consortium Ltd       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/Harriet%20Fewster.pdf)            |
 | Olivia Adair  | A Shiny New Way to Evaluate Bowel Cancer Screening in Northern Ireland | Queen’s Univeristy Belfast	       | Slides TBC            |
 | Luke Hardcastle	  | The diffusion piecewise exponential model for survival extrapolation | Dept. Statistical Science, University College London	       | Slides TBC            |
 | Zachary Waller	  |Blistering speed - is Rcpp really so scary? | Queen’s Univeristy Belfast		       | Slides TBC            |

@@ -34,7 +34,7 @@ Links to external materials can be found in the table below, thanks to the DPA t
 | ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
 | Harriet Fewster  | Investigating Input Correlation in Probabilistic Sensitivity Analysis | York Health Economics Consortium Ltd       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/Harriet%20Fewster.pdf)            |
 | Olivia Adair  | A Shiny New Way to Evaluate Bowel Cancer Screening in Northern Ireland | Queen’s Univeristy Belfast	       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/Olivia%20Adair.pdf)            |
-| Luke Hardcastle	  | The diffusion piecewise exponential model for survival extrapolation | Dept. Statistical Science, University College London	       | Slides TBC            |
+| Luke Hardcastle	  | The diffusion piecewise exponential model for survival extrapolation | Dept. Statistical Science, University College London	       | [Slides](https://github.com/r-hta/r-hta-workshop-2025/blob/main/content/Luke%20Hardcastle.pdf)           |
 | Zachary Waller	  |Blistering speed - is Rcpp really so scary? | Queen’s Univeristy Belfast		       | Slides TBC            |
 | Ahmed Abdelsabour	  |Visualising Non-Inferiority: An R Shiny Tool for Indirect Comparisons | PenTAG, University of Exeter		       | Slides TBC            |
 | Hesam Ghiasvand	  |Revealing Subgroup Cost-Effectiveness Using Group-Based Trajectory Modelling: A Simulation on the findings of a study in Maternal Health During Birth | Coventry University		       | Slides TBC            |
